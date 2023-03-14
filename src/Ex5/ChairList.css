@@ -1,0 +1,29 @@
+.chairList {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 40px 0 10px;
+  border-radius: 20px;
+}
+.chairBooked {
+  background-color: green;
+  border-color: green;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.chairBooking {
+  background-color: purple;
+  border-color: purple;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.chairBlank {
+  background-color: white;
+  border-color: purple;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  margin-right: 10px;
+}

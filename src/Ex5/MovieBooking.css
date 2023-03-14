@@ -1,0 +1,10 @@
+.container{
+    width: 85%;
+    margin: auto;
+    background-image: url("./img/bgmovie.jpg");
+}
+
+.screen{
+    background-image: linear-gradient(to right, #f12711, #f5af19);
+    border-radius: 70px 70px 0 0;
+}
